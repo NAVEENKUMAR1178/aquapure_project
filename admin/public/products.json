@@ -1,0 +1,522 @@
+[
+ {
+  "id": "p01",
+  "name": "AquaPure RO+UV 8L",
+  "category": "Purifiers",
+  "price": 6979,
+  "wholesalePrice": 5443,
+  "stock": 36,
+  "image": "/images/p01.png",
+  "description": "AquaPure RO+UV 8L: genuine quality purifier for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p02",
+  "name": "AquaPure RO 7L Wall Mount",
+  "category": "Purifiers",
+  "price": 8129,
+  "wholesalePrice": 6340,
+  "stock": 146,
+  "image": "/images/p02.png",
+  "description": "AquaPure RO 7L Wall Mount: genuine quality purifier for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p03",
+  "name": "PureFlow UV+UF 10L",
+  "category": "Purifiers",
+  "price": 12929,
+  "wholesalePrice": 10084,
+  "stock": 140,
+  "image": "/images/p03.png",
+  "description": "PureFlow UV+UF 10L: genuine quality purifier for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p04",
+  "name": "CrystalClear RO+Mineral 9L",
+  "category": "Purifiers",
+  "price": 11899,
+  "wholesalePrice": 9281,
+  "stock": 73,
+  "image": "/images/p04.png",
+  "description": "CrystalClear RO+Mineral 9L: genuine quality purifier for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p05",
+  "name": "HydroMax Copper RO 8L",
+  "category": "Purifiers",
+  "price": 6599,
+  "wholesalePrice": 5147,
+  "stock": 27,
+  "image": "/images/p05.png",
+  "description": "HydroMax Copper RO 8L: genuine quality purifier for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p06",
+  "name": "AquaPure Alkaline RO 10L",
+  "category": "Purifiers",
+  "price": 14189,
+  "wholesalePrice": 11067,
+  "stock": 119,
+  "image": "/images/p06.png",
+  "description": "AquaPure Alkaline RO 10L: genuine quality purifier for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p07",
+  "name": "PureFlow Under-Sink RO 12L",
+  "category": "Purifiers",
+  "price": 9819,
+  "wholesalePrice": 7658,
+  "stock": 20,
+  "image": "/images/p07.png",
+  "description": "PureFlow Under-Sink RO 12L: genuine quality purifier for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p08",
+  "name": "CrystalClear UV Gravity 12L",
+  "category": "Purifiers",
+  "price": 12319,
+  "wholesalePrice": 9608,
+  "stock": 88,
+  "image": "/images/p08.png",
+  "description": "CrystalClear UV Gravity 12L: genuine quality purifier for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p09",
+  "name": "HydroMax Smart RO+UV 9L",
+  "category": "Purifiers",
+  "price": 12559,
+  "wholesalePrice": 9796,
+  "stock": 78,
+  "image": "/images/p09.png",
+  "description": "HydroMax Smart RO+UV 9L: genuine quality purifier for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p10",
+  "name": "AquaPure Compact RO 5L",
+  "category": "Purifiers",
+  "price": 11319,
+  "wholesalePrice": 8828,
+  "stock": 46,
+  "image": "/images/p10.png",
+  "description": "AquaPure Compact RO 5L: genuine quality purifier for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p11",
+  "name": "AquaCool Hot & Cold Dispenser",
+  "category": "Dispensers",
+  "price": 12319,
+  "wholesalePrice": 9608,
+  "stock": 27,
+  "image": "/images/p11.png",
+  "description": "AquaCool Hot & Cold Dispenser: genuine quality dispenser for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p12",
+  "name": "AquaCool Bottom-Load Dispenser",
+  "category": "Dispensers",
+  "price": 5109,
+  "wholesalePrice": 3985,
+  "stock": 186,
+  "image": "/images/p12.png",
+  "description": "AquaCool Bottom-Load Dispenser: genuine quality dispenser for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p13",
+  "name": "PureFlow Table-Top Dispenser",
+  "category": "Dispensers",
+  "price": 9359,
+  "wholesalePrice": 7300,
+  "stock": 117,
+  "image": "/images/p13.png",
+  "description": "PureFlow Table-Top Dispenser: genuine quality dispenser for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p14",
+  "name": "AquaCool Floor Standing Dispenser",
+  "category": "Dispensers",
+  "price": 10549,
+  "wholesalePrice": 8228,
+  "stock": 128,
+  "image": "/images/p14.png",
+  "description": "AquaCool Floor Standing Dispenser: genuine quality dispenser for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p15",
+  "name": "HydroMax Touchless Dispenser",
+  "category": "Dispensers",
+  "price": 10879,
+  "wholesalePrice": 8485,
+  "stock": 155,
+  "image": "/images/p15.png",
+  "description": "HydroMax Touchless Dispenser: genuine quality dispenser for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p16",
+  "name": "AquaCool Hot-Normal-Cold Dispenser",
+  "category": "Dispensers",
+  "price": 6739,
+  "wholesalePrice": 5256,
+  "stock": 132,
+  "image": "/images/p16.png",
+  "description": "AquaCool Hot-Normal-Cold Dispenser: genuine quality dispenser for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p17",
+  "name": "PureFlow Bottle Dispenser Pump",
+  "category": "Dispensers",
+  "price": 12629,
+  "wholesalePrice": 9850,
+  "stock": 161,
+  "image": "/images/p17.png",
+  "description": "PureFlow Bottle Dispenser Pump: genuine quality dispenser for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p18",
+  "name": "Booster Pump 100GPD",
+  "category": "Pumps",
+  "price": 1499,
+  "wholesalePrice": 1169,
+  "stock": 79,
+  "image": "/images/p18.png",
+  "description": "Booster Pump 100GPD: genuine quality pump for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p19",
+  "name": "Booster Pump 75GPD",
+  "category": "Pumps",
+  "price": 2299,
+  "wholesalePrice": 1793,
+  "stock": 137,
+  "image": "/images/p19.png",
+  "description": "Booster Pump 75GPD: genuine quality pump for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p20",
+  "name": "RO Diaphragm Pump 50GPD",
+  "category": "Pumps",
+  "price": 2799,
+  "wholesalePrice": 2183,
+  "stock": 25,
+  "image": "/images/p20.png",
+  "description": "RO Diaphragm Pump 50GPD: genuine quality pump for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p21",
+  "name": "High-Pressure Pump 150GPD",
+  "category": "Pumps",
+  "price": 1829,
+  "wholesalePrice": 1426,
+  "stock": 162,
+  "image": "/images/p21.png",
+  "description": "High-Pressure Pump 150GPD: genuine quality pump for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p22",
+  "name": "Transfer Pump 1/2 HP",
+  "category": "Pumps",
+  "price": 2739,
+  "wholesalePrice": 2136,
+  "stock": 45,
+  "image": "/images/p22.png",
+  "description": "Transfer Pump 1/2 HP: genuine quality pump for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p23",
+  "name": "Submersible Pump 0.5HP",
+  "category": "Pumps",
+  "price": 1419,
+  "wholesalePrice": 1106,
+  "stock": 95,
+  "image": "/images/p23.png",
+  "description": "Submersible Pump 0.5HP: genuine quality pump for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p24",
+  "name": "Self-Priming Pump 1HP",
+  "category": "Pumps",
+  "price": 1299,
+  "wholesalePrice": 1013,
+  "stock": 105,
+  "image": "/images/p24.png",
+  "description": "Self-Priming Pump 1HP: genuine quality pump for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p25",
+  "name": "Pressure Booster Pump 24V",
+  "category": "Pumps",
+  "price": 2699,
+  "wholesalePrice": 2105,
+  "stock": 148,
+  "image": "/images/p25.png",
+  "description": "Pressure Booster Pump 24V: genuine quality pump for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p26",
+  "name": "Sediment Filter 10 inch",
+  "category": "Filters",
+  "price": 699,
+  "wholesalePrice": 545,
+  "stock": 128,
+  "image": "/images/p26.png",
+  "description": "Sediment Filter 10 inch: genuine quality filter for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p27",
+  "name": "Carbon Block Filter 10 inch",
+  "category": "Filters",
+  "price": 499,
+  "wholesalePrice": 389,
+  "stock": 191,
+  "image": "/images/p27.png",
+  "description": "Carbon Block Filter 10 inch: genuine quality filter for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p28",
+  "name": "Pre-Filter Spun Cartridge",
+  "category": "Filters",
+  "price": 359,
+  "wholesalePrice": 280,
+  "stock": 92,
+  "image": "/images/p28.png",
+  "description": "Pre-Filter Spun Cartridge: genuine quality filter for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p29",
+  "name": "RO Membrane 80GPD",
+  "category": "Filters",
+  "price": 539,
+  "wholesalePrice": 420,
+  "stock": 147,
+  "image": "/images/p29.png",
+  "description": "RO Membrane 80GPD: genuine quality filter for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p30",
+  "name": "RO Membrane 100GPD",
+  "category": "Filters",
+  "price": 659,
+  "wholesalePrice": 514,
+  "stock": 149,
+  "image": "/images/p30.png",
+  "description": "RO Membrane 100GPD: genuine quality filter for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p31",
+  "name": "UF Membrane Cartridge",
+  "category": "Filters",
+  "price": 449,
+  "wholesalePrice": 350,
+  "stock": 28,
+  "image": "/images/p31.png",
+  "description": "UF Membrane Cartridge: genuine quality filter for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p32",
+  "name": "Mineral Cartridge",
+  "category": "Filters",
+  "price": 489,
+  "wholesalePrice": 381,
+  "stock": 123,
+  "image": "/images/p32.png",
+  "description": "Mineral Cartridge: genuine quality filter for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p33",
+  "name": "Alkaline Cartridge",
+  "category": "Filters",
+  "price": 459,
+  "wholesalePrice": 358,
+  "stock": 64,
+  "image": "/images/p33.png",
+  "description": "Alkaline Cartridge: genuine quality filter for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p34",
+  "name": "Inline Carbon Filter",
+  "category": "Filters",
+  "price": 439,
+  "wholesalePrice": 342,
+  "stock": 199,
+  "image": "/images/p34.png",
+  "description": "Inline Carbon Filter: genuine quality filter for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p35",
+  "name": "Whole House Filter 20 inch",
+  "category": "Filters",
+  "price": 619,
+  "wholesalePrice": 482,
+  "stock": 115,
+  "image": "/images/p35.png",
+  "description": "Whole House Filter 20 inch: genuine quality filter for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p36",
+  "name": "Post-Carbon Filter",
+  "category": "Filters",
+  "price": 309,
+  "wholesalePrice": 241,
+  "stock": 189,
+  "image": "/images/p36.png",
+  "description": "Post-Carbon Filter: genuine quality filter for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p37",
+  "name": "Copper Infusion Cartridge",
+  "category": "Filters",
+  "price": 499,
+  "wholesalePrice": 389,
+  "stock": 61,
+  "image": "/images/p37.png",
+  "description": "Copper Infusion Cartridge: genuine quality filter for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p38",
+  "name": "UV Lamp 11W",
+  "category": "Spares",
+  "price": 249,
+  "wholesalePrice": 194,
+  "stock": 120,
+  "image": "/images/p38.png",
+  "description": "UV Lamp 11W: genuine quality spare for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p39",
+  "name": "UV Chamber Assembly",
+  "category": "Spares",
+  "price": 219,
+  "wholesalePrice": 170,
+  "stock": 27,
+  "image": "/images/p39.png",
+  "description": "UV Chamber Assembly: genuine quality spare for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p40",
+  "name": "SMPS Adaptor 24V",
+  "category": "Spares",
+  "price": 239,
+  "wholesalePrice": 186,
+  "stock": 98,
+  "image": "/images/p40.png",
+  "description": "SMPS Adaptor 24V: genuine quality spare for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p41",
+  "name": "Solenoid Valve 24V",
+  "category": "Spares",
+  "price": 289,
+  "wholesalePrice": 225,
+  "stock": 177,
+  "image": "/images/p41.png",
+  "description": "Solenoid Valve 24V: genuine quality spare for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p42",
+  "name": "Float Valve",
+  "category": "Spares",
+  "price": 269,
+  "wholesalePrice": 209,
+  "stock": 120,
+  "image": "/images/p42.png",
+  "description": "Float Valve: genuine quality spare for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p43",
+  "name": "Flow Restrictor 300ml",
+  "category": "Spares",
+  "price": 279,
+  "wholesalePrice": 217,
+  "stock": 63,
+  "image": "/images/p43.png",
+  "description": "Flow Restrictor 300ml: genuine quality spare for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p44",
+  "name": "Pressure Gauge",
+  "category": "Spares",
+  "price": 249,
+  "wholesalePrice": 194,
+  "stock": 23,
+  "image": "/images/p44.png",
+  "description": "Pressure Gauge: genuine quality spare for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p45",
+  "name": "Tank 8L Storage",
+  "category": "Spares",
+  "price": 309,
+  "wholesalePrice": 241,
+  "stock": 158,
+  "image": "/images/p45.png",
+  "description": "Tank 8L Storage: genuine quality spare for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p46",
+  "name": "Faucet Tap Chrome",
+  "category": "Spares",
+  "price": 339,
+  "wholesalePrice": 264,
+  "stock": 160,
+  "image": "/images/p46.png",
+  "description": "Faucet Tap Chrome: genuine quality spare for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p47",
+  "name": "Tubing 1/4 inch 10m",
+  "category": "Spares",
+  "price": 189,
+  "wholesalePrice": 147,
+  "stock": 151,
+  "image": "/images/p47.png",
+  "description": "Tubing 1/4 inch 10m: genuine quality spare for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p48",
+  "name": "Quick Connectors Set",
+  "category": "Spares",
+  "price": 209,
+  "wholesalePrice": 163,
+  "stock": 167,
+  "image": "/images/p48.png",
+  "description": "Quick Connectors Set: genuine quality spare for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p49",
+  "name": "Membrane Housing",
+  "category": "Spares",
+  "price": 209,
+  "wholesalePrice": 163,
+  "stock": 88,
+  "image": "/images/p49.png",
+  "description": "Membrane Housing: genuine quality spare for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p50",
+  "name": "Check Valve",
+  "category": "Spares",
+  "price": 279,
+  "wholesalePrice": 217,
+  "stock": 175,
+  "image": "/images/p50.png",
+  "description": "Check Valve: genuine quality spare for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p51",
+  "name": "Water Level Sensor",
+  "category": "Spares",
+  "price": 349,
+  "wholesalePrice": 272,
+  "stock": 21,
+  "image": "/images/p51.png",
+  "description": "Water Level Sensor: genuine quality spare for home and commercial use. 1 year warranty."
+ },
+ {
+  "id": "p52",
+  "name": "Cabinet Panel Set",
+  "category": "Spares",
+  "price": 219,
+  "wholesalePrice": 170,
+  "stock": 151,
+  "image": "/images/p52.png",
+  "description": "Cabinet Panel Set: genuine quality spare for home and commercial use. 1 year warranty."
+ }
+]

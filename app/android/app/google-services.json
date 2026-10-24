@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344643672093",
+    "project_id": "aquapure-b1cc5",
+    "storage_bucket": "aquapure-b1cc5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344643672093:android:a6fdb1985af9afb19bcef4",
+        "android_client_info": {
+          "package_name": "com.example.aquapure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344643672093-oemue2pv06hg7d9h0thj7fololjvekol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeyfQG1MW_NfCf8llhp85QBEdRrbbGHcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344643672093-oemue2pv06hg7d9h0thj7fololjvekol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
