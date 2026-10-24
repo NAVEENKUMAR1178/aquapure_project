@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AquaPure – E-Commerce Water Purifier App (₹0 stack)
 
 ```
@@ -56,3 +57,6 @@ flutter build apk --release
 - Product images are generated placeholders matching each product name. Replace by uploading real photos to Cloudinary/ImgBB and updating `image` in Firestore.
 - Email/SMS (EmailJS/TextBee) can be added by calling their REST APIs from `admin/app/api/notify/route.js`.
 - Razorpay test mode is client-side only; for production create orders server-side.
+=======
+# aquapure_project
+>>>>>>> 87ebae1aa985fb047ec35f85ef0ebfb7e5f945c2
